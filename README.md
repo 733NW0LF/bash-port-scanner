@@ -1,1 +1,1 @@
-###Simple Port Scanner tool using Bash
+## Simple Port Scanner tool using Bash
